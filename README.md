@@ -111,4 +111,4 @@ This project demonstrates a Blue-Green Deployment strategy on AWS using Amazon E
 
 **Vibhu Sharma**
 
-GitHub: **VibuCloud**
+GitHub: **Vibhu-Cloud**
